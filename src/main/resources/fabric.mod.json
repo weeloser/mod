@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "clearfire",
+	"version": "1.0.0",
+	"name": "ClearFire",
+	"description": "Optimizes fire rendering by adjusting particle logic and transparency.",
+	"authors": [
+		"German"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "MIT",
+	"icon": "assets/clearfire/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"org.graphics.optimization.ClearFire"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
