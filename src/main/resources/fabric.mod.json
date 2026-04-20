@@ -5,10 +5,10 @@
 	"name": "ClearFire",
 	"description": "Optimizes fire rendering by adjusting particle logic and transparency.",
 	"authors": [
-		"German"
+		"By Weeloser"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/"
+		"homepage": "t.me/weeloser"
 	},
 	"license": "MIT",
 	"icon": "assets/clearfire/icon.png",
